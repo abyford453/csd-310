@@ -1,0 +1,38 @@
+
+======================================================================
+REPORT 1: EQUIPMENT PURCHASES VS. RENTALS
+======================================================================
+Purpose: Compare customer equipment purchases and rentals to help determine whether Outland Adventures should continue equipment sales.
+
+Transaction Type | Total Transactions
+-----------------+-------------------
+Purchase         | 3                 
+Rental           | 3                 
+
+======================================================================
+REPORT 2: BOOKING TRENDS BY REGION
+======================================================================
+Purpose: Compare monthly trip bookings in Africa, Asia, and Southern Europe to identify changes in booking activity over time.
+
+Region          | Month   | Total Bookings
+----------------+---------+---------------
+Africa          | 2025-11 | 6             
+Africa          | 2025-12 | 4             
+Africa          | 2026-01 | 2             
+Asia            | 2025-11 | 3             
+Asia            | 2025-12 | 4             
+Asia            | 2026-01 | 5             
+Southern Europe | 2025-11 | 2             
+Southern Europe | 2025-12 | 3             
+Southern Europe | 2026-01 | 4             
+
+======================================================================
+REPORT 3: EQUIPMENT MORE THAN FIVE YEARS OLD
+======================================================================
+Purpose: Identify aging inventory that may require inspection, replacement, or retirement.
+
+Equipment ID | Equipment Name | Type    | Purchase Date | Age
+-------------+----------------+---------+---------------+----
+1            | Backpack       | Camping | 2018-04-15    | 8  
+2            | Tent           | Camping | 2019-06-20    | 7  
+3            | Sleeping Bag   | Camping | 2020-08-10    | 6  
